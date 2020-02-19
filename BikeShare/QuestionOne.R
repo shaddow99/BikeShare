@@ -37,6 +37,7 @@ popularMonth(wash)
 
 ##Summary Statistics:
 #To calculate the mode of a dataset
+#ressources : https://www.tutorialspoint.com/r/r_mean_median_mode.htm
 getMode <-function(x)
 {
   uniq <-unique(x)
